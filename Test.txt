@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 I'm hungry now... 
+=======
+Adding different Text
+
+IM SO FUNNY
+>>>>>>> 630314e (gui commit test)
