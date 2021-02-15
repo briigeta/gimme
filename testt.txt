@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I mean one Drive is looking quite good rn... 
+=======
+HEY YALL
+>>>>>>> 630314e (gui commit test)
